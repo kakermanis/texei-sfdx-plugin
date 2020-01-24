@@ -2,7 +2,7 @@
   "extends": "./node_modules/@salesforce/dev-config/tsconfig.json",
   "compilerOptions": {
     "outDir": "./lib",
-    "rootDirs": ["./src"],
+    "rootDir": "./src",
     "baseUrl": "./"
   },
   "include": [
